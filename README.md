@@ -1,24 +1,30 @@
-# lais-guatemala-expo
+# Un Paisaje Fronterizo
 
-## Project setup
-```
-npm install
-```
+Exposición fotográfica en línea *Un Paisaje Fronterizo. Cruces e itinerarios en la línea México-Guatemala*. 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Resultado del proyecto *Región Transfronteriza México-Guatemala: Dimensión regional y bases para su desarrollo integral*.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Dependencias
 
-### Lints and fixes files
-```
-npm run lint
+- [NodeJS](https://nodejs.org)
+  - [Reveal.js](https://revealjs.com/)
+  - [Vue.js](https://vuejs.org/)
+  - [Materialize](https://materializecss.com/)
+
+## Ambiente de desarrollo
+
+```sh
+$ npm install
+$ npm run serve
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Compilación para producción
+
+```sh
+$ npm install
+$ npm run build
+```
+
+## Licencia
+
+Este proyecto es software libre: puede ser redistribuido y/o modificado bajo los términos de **GNU General Public License v3.0** siempre y cuando se mantenga la misma licencia.
